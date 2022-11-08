@@ -19,3 +19,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Start the App for Production
+
+```sh
+npm start
+```
